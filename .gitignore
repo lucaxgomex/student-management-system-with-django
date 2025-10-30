@@ -5,3 +5,5 @@
 # Name of your virtuan env
 
 *pyc
+
+__pycache__
