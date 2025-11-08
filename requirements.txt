@@ -1,0 +1,6 @@
+gunicorn
+psycopg2
+dj_static
+dj_database_url
+decouple
+wheel
