@@ -1,7 +1,6 @@
-pip install gunicorn
-pip install psycopg2
-pip install dj_static
-pip install dj_database_url
-pip install decouple
-pip install wheel
-pip freeze > requirements-dev.txt
+gunicorn
+psycopg2
+dj_static
+dj_database_url
+decouple
+wheel
