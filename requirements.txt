@@ -4,3 +4,4 @@ dj_static
 dj_database_url
 decouple
 wheel
+django
