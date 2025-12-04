@@ -1,0 +1,34 @@
+[04/Dec/2025 16:36:33] "GET / HTTP/1.1" 200 31454
+Not Found: /{% static 'assets/plugins/apexchart/apexcharts.min.js' }%
+Not Found: /{% static 'assets/plugins/apexchart/chart-data.js' }%
+
+[04/Dec/2025 16:36:33] "GET /%7B%%20static%20'assets/plugins/apexchart/chart-data.js'%20%7D% HTTP/1.1" 404 2623
+Not Found: /assets/img/logo.png
+Not Found: /assets/img/profiles
+
+[04/Dec/2025 16:36:33] "GET /%7B%%20static%20'assets/plugins/apexchart/apexcharts.min.js'%20%7D% HTTP/1.1" 404 2635
+Not Found: /assets/img/profiles/avatar-17.jpg
+
+[04/Dec/2025 16:36:33] "GET /assets/img/logo.png HTTP/1.1" 404 2477
+Not Found: /assets/img/logo-small.png
+
+[04/Dec/2025 16:36:33] "GET /assets/img/profiles/avatar-17.jpg HTTP/1.1" 404 2519
+
+[04/Dec/2025 16:36:33] "GET /assets/img/profiles/avatar-02.jpg HTTP/1.1" 404 2519
+Not Found: /assets/img/profiles/avatar-11.jpg
+
+[04/Dec/2025 16:36:33] "GET /assets/img/logo-small.png HTTP/1.1" 404 2495
+Not Found: /assets/img/profiles/avatar-13.jpg
+
+[04/Dec/2025 16:36:33] "GET /assets/img/profiles/avatar-13.jpg HTTP/1.1" 404 2519
+Not Found: /assets/img/profiles/avatar-01.jpg
+
+[04/Dec/2025 16:36:33] "GET /assets/img/profiles/avatar-11.jpg HTTP/1.1" 404 2519
+
+[04/Dec/2025 16:36:33] "GET /assets/img/profiles/avatar-01.jpg HTTP/1.1" 404 2519
+Not Found: /{% static 'assets/plugins/apexchart/apexcharts.min.js' }%
+
+[04/Dec/2025 16:36:34] "GET /%7B%%20static%20'assets/plugins/apexchart/apexcharts.min.js'%20%7D% HTTP/1.1" 404 2635
+Not Found: /{% static 'assets/plugins/apexchart/chart-data.js' }%
+
+[04/Dec/2025 16:36:34] "GET /%7B%%20static%20'assets/plugins/apexchart/chart-data.js'%20%7D% HTTP/1.1" 404 2623
